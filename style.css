@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+main{ 
+    background-color: rgb(202, 138, 92);
+    margin: 250px ;
+    padding-top: 10px;
+    border: 10px solid black;
+    }
+    
+    h1{
+    text-align: center;
+    }
+    
+    div{
+    text-align: center;
+    padding:17px;
+    height:140px;
+    border:10px solid rgb(249, 249, 54);
+    
+    }
+    
+  
+    #data{
+    height: 35px;
+    font-size: 14pt;
+    background-color:rgb(240, 229, 213);
+    }
+    
+    #hello{
+    color:rgb(9, 9, 72);
+    }
